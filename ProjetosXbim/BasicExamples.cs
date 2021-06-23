@@ -5,7 +5,7 @@ using Xbim.Ifc4.Interfaces;
 
 namespace BasicExamples
 {
-    class SpatialStructureExample
+    public class SpatialStructureExample
     {
         public static void Show()
         {
