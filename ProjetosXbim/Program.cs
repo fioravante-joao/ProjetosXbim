@@ -1,0 +1,16 @@
+﻿using System;
+using System.Linq;
+using Xbim.Ifc;
+using Xbim.Ifc4.Interfaces;
+using BasicExamples;
+
+namespace ProjetosXbim
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {            
+            SpatialStructureExample.Show();
+        }
+    }
+}
