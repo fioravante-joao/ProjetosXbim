@@ -10,9 +10,11 @@ namespace ProjetosXbim
     {
         static void Main(string[] args)
         {
-            SpatialStructureExample.Show(); //pega a estrutura do modelo espacial.
+            //SpatialStructureExample.Show(); //pega a estrutura do modelo espacial.
 
-            BasicModelOperations.GetDadosModel();  // pega dados do modelo.
+            //BasicModelOperations.GetDadosModel();  // pega dados do modelo.
+
+            LinqExemploDesempenho.SelectionWithLinq();
         }
     }
 }
