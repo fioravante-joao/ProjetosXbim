@@ -14,7 +14,11 @@ namespace ProjetosXbim
 
             //BasicModelOperations.GetDadosModel();  // pega dados do modelo.
 
-            LinqExemploDesempenho.SelectionWithLinq();
+            //LinqExemploDesempenho.SelectionWithLinq();
+
+            RelatorioDeEspacoExcel.Create();
+
+            Console.ReadLine();
         }
     }
 }

@@ -56,3 +56,14 @@ C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\obj\Debug\netcoreapp
 C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\obj\Debug\netcoreapp3.1\ProjetosXbim.dll
 C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\obj\Debug\netcoreapp3.1\ProjetosXbim.pdb
 C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\obj\Debug\netcoreapp3.1\ProjetosXbim.genruntimeconfig.cache
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\JVFS\source\repos\ProjetosXbimEstudos\ProjetosXbim\bin\Debug\netcoreapp3.1\NOTICE.TXT
