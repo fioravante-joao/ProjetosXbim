@@ -16,7 +16,9 @@ namespace ProjetosXbim
 
             //LinqExemploDesempenho.SelectionWithLinq();
 
-            RelatorioDeEspacoExcel.Create();
+            //RelatorioDeEspacoExcel.Create();
+
+            StepToXmlExample.Convert();
 
             Console.ReadLine();
         }
